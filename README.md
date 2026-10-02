@@ -1,4 +1,4 @@
-## 📊 Project Overview
+# Meta Ad Performance Dashboard
 
 This dashboard provides an interactive view of Meta advertising performance by tracking key metrics such as **Impressions, Clicks, Shares, Comments, Purchases, and Engagements**.
 
